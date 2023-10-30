@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avdhesh Kumar Mishra. 
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development. 
 - 🌱 I’m currently learning Frontend development. 
 - 
 
